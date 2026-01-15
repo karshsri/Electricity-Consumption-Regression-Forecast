@@ -37,3 +37,9 @@ The dataset contains daily household electricity consumption along with househol
 - 7-day consumption forecast
 
 Forecast output is saved as:
+
+<img width="587" height="609" alt="img4" src="https://github.com/user-attachments/assets/2af960e5-2de6-4090-98ea-7dc21d28aa78" />
+<img width="584" height="455" alt="img3" src="https://github.com/user-attachments/assets/fe5d42e6-95e6-42bc-9408-2ec85a9b0f71" />
+<img width="565" height="455" alt="img2" src="https://github.com/user-attachments/assets/4c03c847-118e-424b-90cf-0a8d56362225" />
+<img width="562" height="455" alt="img1" src="https://github.com/user-attachments/assets/f1c3a805-ad16-4f96-9924-af13a8c5f9c4" />
+
